@@ -1,0 +1,32 @@
+{
+    "General": {
+        "title": "ルミナ・ループ",
+        "description": "ハイエンド3Dジュエリーコンフィギュレーター",
+        "addToCart": "カートに追加",
+        "price": "価格",
+        "total": "合計金額",
+        "loading": "読み込み中...",
+        "palette": "宝石",
+        "checkout": "チェックアウト"
+    },
+    "Admin": {
+        "title": "管理ダッシュボード",
+        "access": "管理者アクセス",
+        "passwordPlaceholder": "パスワードを入力",
+        "login": "ダッシュボードにアクセス",
+        "viewStore": "ストアを表示"
+    },
+    "Auth": {
+        "welcomeBack": "お帰りなさい",
+        "signInPrompt": "サインインするには詳細を入力してください。",
+        "email": "メールアドレス",
+        "password": "パスワード",
+        "rememberMe": "ログイン状態を保持",
+        "forgotPassword": "パスワードをお忘れですか？",
+        "signIn": "サインイン",
+        "signingIn": "サインイン中...",
+        "orContinueWith": "または次で続行",
+        "noAccount": "アカウントをお持ちではありませんか？",
+        "createAccount": "アカウントを作成"
+    }
+}

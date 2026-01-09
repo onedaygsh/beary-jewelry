@@ -1,0 +1,112 @@
+[
+    {
+        "id": "lacquer_cinnabar",
+        "name": "朱砂",
+        "subLabel": "Cinnabar",
+        "physicalWidth": 0.5,
+        "price": 88,
+        "color": "#8A3324",
+        "materialType": "lacquer",
+        "modelUrl": "/lacquer_cinnabar.glb"
+    },
+    {
+        "id": "lacquer_teal",
+        "name": "孔雀蓝",
+        "subLabel": "Teal",
+        "physicalWidth": 0.5,
+        "price": 88,
+        "color": "#2A9D8F",
+        "materialType": "lacquer",
+        "modelUrl": "/lacquer_teal.glb"
+    },
+    {
+        "id": "lacquer_verdant",
+        "name": "翡翠绿",
+        "subLabel": "Verdant",
+        "physicalWidth": 0.5,
+        "price": 88,
+        "color": "#2E8B57",
+        "materialType": "lacquer",
+        "modelUrl": "/lacquer_verdant.glb"
+    },
+    {
+        "id": "lacquer_coral",
+        "name": "珊瑚红",
+        "subLabel": "Coral",
+        "physicalWidth": 0.5,
+        "price": 88,
+        "color": "#E76F51",
+        "materialType": "lacquer",
+        "modelUrl": "/lacquer_coral.glb"
+    },
+    {
+        "id": "lacquer_amber",
+        "name": "琥珀黄",
+        "subLabel": "Amber",
+        "physicalWidth": 0.5,
+        "price": 88,
+        "color": "#E9C46A",
+        "materialType": "lacquer",
+        "modelUrl": "/lacquer_amber.glb"
+    },
+    {
+        "id": "lacquer_indigo",
+        "name": "靛青",
+        "subLabel": "Indigo",
+        "physicalWidth": 0.5,
+        "price": 88,
+        "color": "#264653",
+        "materialType": "lacquer",
+        "modelUrl": "/lacquer_indigo.glb"
+    },
+    {
+        "id": "lacquer_purple",
+        "name": "紫韵",
+        "subLabel": "Purple",
+        "physicalWidth": 0.5,
+        "price": 88,
+        "color": "#7B2CBF",
+        "materialType": "lacquer",
+        "modelUrl": "/lacquer_purple.glb"
+    },
+    {
+        "id": "jade_green",
+        "name": "碧玉",
+        "subLabel": "Jade",
+        "physicalWidth": 0.5,
+        "price": 128,
+        "color": "#50A050",
+        "materialType": "gem",
+        "modelUrl": "/jade.glb"
+    },
+    {
+        "id": "quartz_clear",
+        "name": "白晶",
+        "subLabel": "Quartz",
+        "physicalWidth": 0.5,
+        "price": 48,
+        "color": "#E0E0E0",
+        "materialType": "gem",
+        "modelUrl": "/quartz.glb"
+    },
+    {
+        "id": "obsidian_black",
+        "name": "黑曜",
+        "subLabel": "Obsidian",
+        "physicalWidth": 0.5,
+        "price": 58,
+        "color": "#1A1A1A",
+        "materialType": "matte",
+        "modelUrl": "/obsidian.glb"
+    },
+    {
+        "id": "gold_round",
+        "name": "赤金",
+        "subLabel": "Gold",
+        "physicalWidth": 0.4,
+        "price": 388,
+        "color": "#D4AF37",
+        "materialType": "metal",
+        "modelUrl": "/gold.glb"
+    }
+]

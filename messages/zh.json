@@ -1,0 +1,32 @@
+{
+    "General": {
+        "title": "流光 · 珠串",
+        "description": "高端3D珠宝定制",
+        "addToCart": "结账下单",
+        "price": "价格",
+        "total": "总价",
+        "loading": "加载中...",
+        "palette": "珍宝",
+        "checkout": "结账下单"
+    },
+    "Admin": {
+        "title": "管理后台",
+        "access": "后台登录",
+        "passwordPlaceholder": "输入密码",
+        "login": "进入后台",
+        "viewStore": "查看店铺"
+    },
+    "Auth": {
+        "welcomeBack": "欢迎回来",
+        "signInPrompt": "请输入您的详细信息以登录。",
+        "email": "电子邮箱",
+        "password": "密码",
+        "rememberMe": "记住我",
+        "forgotPassword": "忘记密码?",
+        "signIn": "登录",
+        "signingIn": "登录中...",
+        "orContinueWith": "或通过以下方式继续",
+        "noAccount": "还没有账号?",
+        "createAccount": "创建账号"
+    }
+}

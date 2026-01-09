@@ -1,0 +1,32 @@
+{
+    "General": {
+        "title": "Lumina Loop",
+        "description": "High-end 3D jewelry configurator",
+        "addToCart": "Add to Cart",
+        "price": "Price",
+        "total": "Total Value",
+        "loading": "Loading...",
+        "palette": "Palette",
+        "checkout": "Checkout"
+    },
+    "Admin": {
+        "title": "Admin Dashboard",
+        "access": "Admin Access",
+        "passwordPlaceholder": "Enter password",
+        "login": "Access Dashboard",
+        "viewStore": "View Storefront"
+    },
+    "Auth": {
+        "welcomeBack": "Welcome Back",
+        "signInPrompt": "Please enter your details to sign in.",
+        "email": "Email",
+        "password": "Password",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot password?",
+        "signIn": "Sign In",
+        "signingIn": "Signing in...",
+        "orContinueWith": "Or continue with",
+        "noAccount": "Don't have an account?",
+        "createAccount": "Create account"
+    }
+}
